@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-easycampusreactv2-dev-145029-authRole",
+      "UnauthRoleArn": "arn:aws:iam::863570438364:role/amplify-easycampusreactv2-dev-145029-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::863570438364:role/amplify-easycampusreactv2-dev-145029-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-easycampusreactv2-dev-145029-deployment",
+      "UnauthRoleName": "amplify-easycampusreactv2-dev-145029-unauthRole",
+      "StackName": "amplify-easycampusreactv2-dev-145029",
+      "StackId": "arn:aws:cloudformation:us-east-1:863570438364:stack/amplify-easycampusreactv2-dev-145029/19b4d970-5860-11ec-bb0d-0ea8ceb84bab",
+      "AmplifyAppId": "d3uqr8es7u86we"
+    },
+    "categories": {
+      "auth": {
+        "easycampusreactv2be50c886": {},
+        "true": {}
+      }
+    }
+  }
+}

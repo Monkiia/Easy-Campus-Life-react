@@ -1,0 +1,16 @@
+{
+  "resourceName": "scognito",
+  "policyUUID": "f20e38e0",
+  "bucketName": "easycampusreactv20f8fa0a551e84b23b27048be4f0649",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

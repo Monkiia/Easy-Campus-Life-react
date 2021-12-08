@@ -3,8 +3,13 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 4vmin;
   pointer-events: none;
+}
+
+.photo {
+  height : 100px;
+  width : 100px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -12,6 +17,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+amplify-s3-image {
+  --height: 100px;
+  --width: 100px;
+}
+
 
 .App-header {
   background-color: #282c34;
